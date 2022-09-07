@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Moolah',
+
       theme: ThemeData(
           primaryColor: const MaterialColor(0xFF3A0072, {
             50: Color(0xFF3A0072),
